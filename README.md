@@ -1,3 +1,3 @@
-#A-Quick-Response-Dynamic-Obstacle-Avoidance-Strategy-using-Jetbot
+# A-Quick-Response-Dynamic-Obstacle-Avoidance-Strategy-using-Jetbot
 
 We used a JetBot artificial intelligence (AI) kit with a NVIDIA Jetson Nano-based rearranged system. The fundamental components for these specifications are the Jetson Nano microcomputer board and the NVIDIA Jetson Nano Developer Kit, which is the packaged, two-wheeled carshaped experimental system kit set developed and distributed by NVIDIA Inc. The aforementioned board is used in the areas of executing diverse deep learnings, such as image data classifications, detecting indicated objects, automatic segmentation computing, recognizing diverse sound data including real human voice data, and parallel processing for some of the above.
